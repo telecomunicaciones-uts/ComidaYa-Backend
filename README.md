@@ -1,7 +1,7 @@
 # COMIDAYA
 ![ComidaYa](https://github.com/user-attachments/assets/a19ca071-b217-444c-b1ac-5a78f7ba91c5)
 
-Este repositorio universitario, es de la carrera de Ingeniería en Telecomunicaciones de las Unidades Tecnológicas de Santander; Para la recreación de una APIREST, con un enfoque de un resturante.
+Este repositorio universitario, es de la carrera de Ingeniería en Telecomunicaciones de las Unidades Tecnológicas de Santander; Para una primera (1) fase,la creacion del backend y posteriormente a la integración de la APIREST de un resturante.
 
 # DATABASE SUMMARY. 
 This database is designed to manage information for an online ordering system for restaurants. Below is an overview of its main components and how they are related:
