@@ -51,6 +51,8 @@ Invoices and Orders: Each order can have an associated invoice, with a detailed 
 
 Delivery Drivers and Orders: Delivery drivers can be assigned to several orders, managing deliveries.
 
+# DATABASE SUMMARY. 
+
 ![ComidaYa](https://github.com/user-attachments/assets/c8402106-a34e-4e47-b39b-dc8db8d4721a)
 
 
