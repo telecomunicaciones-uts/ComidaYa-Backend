@@ -1,6 +1,7 @@
 ![Logo_ComidaYa (1)](https://github.com/user-attachments/assets/858e7594-99a0-4430-9988-d0450381d262)
+![ComidaYa](https://github.com/user-attachments/assets/a19ca071-b217-444c-b1ac-5a78f7ba91c5)
 
-
+Este repositorio es parte de un proyecto de clase para la asignatura Programación de Dispositivos Móviles de la carrera de Ingeniería en Telecomunicaciones de Unidades Tecnológicas de Santander (UTS) . El objetivo del proyecto es construir el backend para una academia de robótica llamada RoboTICs .
 
 Database Summary
 This database is designed to manage information for an online ordering system for restaurants. Below is an overview of its main components and how they are related:
@@ -54,6 +55,5 @@ Delivery Drivers and Orders: Delivery drivers can be assigned to several orders,
 
 
 Members:
-Edwin Duarte 
-
-Edwar Caro
+* Edwin Duarte 
+* Edwar Caro
