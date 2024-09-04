@@ -59,12 +59,14 @@ Delivery Drivers and Orders: Delivery drivers can be assigned to several orders,
 # 1. GET /users/{user_id}
 allows you to obtain detailed information about a specific user based on their user_id.
 
+
 # Answer:
 * 200 OK: When the user is found.
 * 404 Not Found: If the user with the provided user_id does not exist.
 
-# 2. GET /restaurantes/{id_restaurante}/menus
+# 2. GET /restaurantes/{restaurant_id}/menus
 allows you to obtain all the menus available in a specific restaurant, according to its restaurant_id.
+
 
 # Answer:
 * 200 OK: When menus associated with the restaurant are found.
