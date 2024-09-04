@@ -55,6 +55,22 @@ Delivery Drivers and Orders: Delivery drivers can be assigned to several orders,
 
 ![ComidaYa](https://github.com/user-attachments/assets/c8402106-a34e-4e47-b39b-dc8db8d4721a)
 
+# ROUTES OF GET:
+# 1. GET /users/{user_id}
+allows you to obtain detailed information about a specific user based on their user_id.
+
+Answer:
+200 OK: When the user is found.
+404 Not Found: If the user with the provided user_id does not exist.
+
+# 2. GET /restaurantes/{id_restaurante}/menus
+allows you to obtain all the menus available in a specific restaurant, according to its restaurant_id.
+
+Answer:
+200 OK: When menus associated with the restaurant are found.
+404 Not Found: If there are no associated menus or the restaurant does not exist.
+
+
 
 ## Members:
 * Edwin Duarte 
