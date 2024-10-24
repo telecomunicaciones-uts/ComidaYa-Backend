@@ -75,9 +75,7 @@ allows you to obtain all the menus available in a specific restaurant, according
 #Video 
 https://unidadestecno.sharepoint.com/sites/Moviles912/_layouts/15/stream.aspx?id=%2Fsites%2FMoviles912%2FDocumentos%20compartidos%2FGeneral%2FRecordings%2FReuni%C3%B3n%20en%20%5FGeneral%5F%2D20240913%5F231039%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%201%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E63b43b3e%2Db77c%2D4e47%2D8e36%2Dd90c948b1499
 
-#Video Final
-(https://youtu.be/elrhzYQe2Ho?feature=shared)
+
 
 ## Members:
 * Edwin Duarte 
-* Edwar Caro
